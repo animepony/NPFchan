@@ -1,4 +1,4 @@
-// Thanks to Khorne on #8chan at irc.rizon.net
+// Thanks to Khorne on #lainchan at irc.rizon.net
 // https://gitlab.com/aymous/8chan-watchlist
 
 'use strict';
